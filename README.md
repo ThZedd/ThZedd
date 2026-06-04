@@ -40,7 +40,7 @@ Here are a few projects I've worked on:
 
 ## Fun Fact
 
-I'm getting deeper into Javascript.
+I'm getting deeper into Javascript and React.
 
 <br>
 
