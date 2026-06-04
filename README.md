@@ -7,6 +7,7 @@ I'm a student at IADE - Faculdade de Design, Tecnologia e Comunicação studying
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Programming Skills [![wakatime](https://wakatime.com/badge/user/70a94f5e-dbe8-4c5a-8127-463777a62372.svg)](https://wakatime.com/@70a94f5e-dbe8-4c5a-8127-463777a62372)
 
@@ -16,7 +17,6 @@ I'm a student at IADE - Faculdade de Design, Tecnologia e Comunicação studying
 ![SQL](https://img.shields.io/badge/sql-0000FF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Databases
 
