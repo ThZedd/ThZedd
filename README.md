@@ -16,6 +16,7 @@ I'm a student at IADE - Faculdade de Design, Tecnologia e Comunicação studying
 ![SQL](https://img.shields.io/badge/sql-0000FF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Databases
 
