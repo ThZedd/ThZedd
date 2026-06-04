@@ -28,7 +28,7 @@ I'm a student at IADE - Faculdade de Design, Tecnologia e Comunicação studying
 
 ## Tools
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-2D2E32?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Projects
