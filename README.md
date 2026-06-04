@@ -1,7 +1,7 @@
 # Hello, I'm Bernardo Carvalho 👋
 
 ## About Me
-I'm a student at IADE - Faculdade de Design, Tecnologia e Comunicação studying Computer Engineering. I'm passionate about games and front-end development.
+I'm a Graduated Student at IADE - Faculdade de Design, Tecnologia e Comunicação studying Computer Engineering. I'm passionate about games and front-end development.
 
 ## Web Development
 
