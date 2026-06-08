@@ -9,7 +9,7 @@ I'm a Graduated Student at IADE - Faculdade de Design, Tecnologia e Comunicaçã
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Programming Skills [![wakatime](https://wakatime.com/badge/user/70a94f5e-dbe8-4c5a-8127-463777a62372.svg)](https://wakatime.com/@70a94f5e-dbe8-4c5a-8127-463777a62372)
+## Programming Skills [![wakatime](https://wakatime.com/badge/user/70a94f5e-dbe8-4c5a-8127-463777a62372.svg)](https://wakatime.com/@70a94f5e-dbe8-4c5a-8127-463777a62372
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
