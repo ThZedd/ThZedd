@@ -8,6 +8,8 @@ I'm a Graduated Student at IADE - Faculdade de Design, Tecnologia e Comunicaçã
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Programming Skills [![wakatime](https://wakatime.com/badge/user/70a94f5e-dbe8-4c5a-8127-463777a62372.svg)](https://wakatime.com/@70a94f5e-dbe8-4c5a-8127-463777a62372)
 
@@ -36,7 +38,8 @@ I'm a Graduated Student at IADE - Faculdade de Design, Tecnologia e Comunicaçã
 Here are a few projects I've worked on:
 
 * [Zoopolis](https://github.com/ThZedd/Zoopolis1): Zoopolis is a mobile application that provides the user a interactive visit too the Lisbon Zoo.
-* [DarkLeague](https://github.com/ThZedd/prog-web-zed): Darkleague is a website to store Pokémon cards online, acting as a digital portfolio..
+* [DarkLeague](https://github.com/ThZedd/prog-web-zed): Darkleague is a website to store Pokémon cards online, acting as a digital portfolio.
+* [ThinkBoard](https://mern-thinkboard-fndz.onrender.com): ThinkBoard is a website to keep notes, it was developed with the MERN stack, its online and it takes 1 minute to load on onRender.
 
 ## Fun Fact
 
